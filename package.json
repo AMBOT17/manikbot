@@ -1,0 +1,47 @@
+{
+  "name": "kiana-ev2",
+  "version": "1.0.0",
+  "description": "SELFBOT WHATSAPP",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot"
+  ],
+  "author": "noire-xv",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "base64-img": "^1.0.4",
+    "browser-id3-writer": "^4.4.0",
+    "canvacord": "^5.0.8",
+    "cfonts": "^2.9.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "download-file": "^0.1.5",
+    "escape-string-regexp": "^4.0.0",
+    "fake-useragent": "^1.0.1",
+    "figlet": "^1.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1",
+    "g-i-s": "^2.1.6",
+    "gif2video": "0.0.2",
+    "got": "^11.8.1",
+    "moment-timezone": "^0.5.32",
+    "multistream": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1",
+    "yt-search": "^2.5.1",
+    "ytdl-core": "^4.2.1"
+  }
+}
